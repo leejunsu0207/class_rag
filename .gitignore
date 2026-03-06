@@ -7,4 +7,5 @@
 out
 gen
 
-/api_app/config/.env
+.env
+*.env
