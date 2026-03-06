@@ -1,4 +1,10 @@
-# created by virtualenv automatically
-.venv
+### Example user template template
+### Example user template
+
+# IntelliJ project files
 .idea
+*.iml
+out
+gen
+
 /api_app/config/.env
