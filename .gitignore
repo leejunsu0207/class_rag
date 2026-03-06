@@ -1,4 +1,4 @@
 # created by virtualenv automatically
 .venv
 .idea
-.env
+/api_app/config/.env
